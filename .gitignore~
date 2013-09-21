@@ -1,0 +1,6 @@
+*.gem
+build
+lib/*.js
+lib/*.map
+node_modules
+.wake.json
